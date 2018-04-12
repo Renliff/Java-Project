@@ -1,7 +1,14 @@
-# Java-Project
-jkhksdjfhsdkf jhfkh
-df.kndfkjdsfn;dwkfnkdf 
-wdf;;hdwfkjndsjklfhqiy3gfhjdv
-'pwodfijhudhfwejkfjweifkjf
-kjssd  liq54151sdhs
-' odjsds +
+        double adjustedEarnings;
+        double gasPrice;
+        double milesDriven;
+        double gasUsed;
+        int milesPerGallon;
+        double totalGasCost;
+        double earnings
+
+long startTime = System.currentTimeMillis();
+// ... do something ...
+long estimatedTime = System.currentTimeMillis() - startTime;
+
+        totalGasCost = milesPerGallon / milesDriven * gasPrice;
+        adjustedEarnings = earnings - totalGasCost;
